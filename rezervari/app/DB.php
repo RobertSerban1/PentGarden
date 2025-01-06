@@ -14,9 +14,9 @@ class DB
             $db_info = array(
                 "host" => "localhost",
                 "port" => "3306",
-                "user" => "adi.fainis_wpcp",
-                "pass" => "Fy3fg29LqqHmV8kf",
-                "name" => "adi.fainis_wpcp",
+                "user" => "wpcp",
+                "pass" => "xxxxx",
+                "name" => "wpcp",
                 "charset" => "UTF-8"
             );
 
